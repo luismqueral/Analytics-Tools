@@ -5,7 +5,7 @@ This list is ideal for digital marketing professionals, usability researchers, o
 
 ---
 
-## Analytics Plug-ins
+## Analytics/Tag Manager Plug-ins
 - [Scrolldepth] (https://github.com/robflaherty/jquery-scrolldepth) - A Google Analytics plugin for measuring page scrolling
 - [Riveted] (http://riveted.parsnip.io/) - A Google Analytics plugin for measuring active time on site
 - [Parsnip] (http://screentime.parsnip.io/) - Measure how much time things spend on-screen
