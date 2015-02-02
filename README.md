@@ -5,7 +5,7 @@ This list is ideal for digital marketing professionals, usability researchers, o
 
 ---
 
-## Analytics/Tag Manager Plug-ins
+### Analytics/Tag Manager Plug-ins
 - [Scrolldepth] (https://github.com/robflaherty/jquery-scrolldepth) - A Google Analytics plugin for measuring page scrolling
 - [Riveted] (http://riveted.parsnip.io/) - A Google Analytics plugin for measuring active time on site
 - [Parsnip] (http://screentime.parsnip.io/) - Measure how much time things spend on-screen
@@ -18,14 +18,14 @@ This list is ideal for digital marketing professionals, usability researchers, o
 
 ---
 
-## Misc. Tools
+### Misc. Tools
 - [Analytics Globe] (https://github.com/jorgenfb/analytics-globe) - Visualize Google Analytics data on a globe.
 - [Google Analytics Visualizer] (https://github.com/ProdigalCode/GAV) - Visualize Google Analytics, includes support for real time data.
 - [ga-dev-tools] (https://github.com/googleanalytics/ga-dev-tools) - A showcase of demos and tools built with the various Google Analytics APIs and Libraries.
 
 ---
 
-## Development Tools
+### Development Tools
 - [R Google Analytics] (https://github.com/skardhamar/rga) - Package for extracting data from Google Analytics into R.
 - [C# GoogleAnalyticsTracker] (https://github.com/maartenba/GoogleAnalyticsTracker) - A C# library for tracking Google Analytics.
 - [Ember Insights] (https://github.com/roundscope/ember-insights) - Designed as Ember CLI addon and will be used for tracking user's behavior and interaction.
@@ -35,3 +35,4 @@ This list is ideal for digital marketing professionals, usability researchers, o
 - [angular-google-analytics] (https://github.com/revolunet/angular-google-analytics) - Google Analytics tracking for your AngularJS apps
 - [ember-insights] (https://github.com/roundscope/ember-insights) - Ember middleware for tracking users activities and make it managable over Google Analytics
 - [Angular Google Analytics] (https://github.com/revolunet/angular-google-analytics) - A simple service that lets you integrate google analytics tracker in your AngularJS applications.
+- [GA for Python and the Command Line] (https://github.com/debrouwere/google-analytics) - Takes the pain out of working with the Google Analytics reporting APIs. It supports both the Core and the Real Time API. It is written in Python but there's also a command-line interface.
