@@ -27,19 +27,19 @@ This list is ideal for digital marketing professionals, usability researchers, o
 
 ### Development Tools
 
-#### Ruby
+##### Ruby
 - [Gabba-GMP](https://github.com/fuzzyjulz/gabba-gmp) - A Ruby framework for pushing server side Google Analytics calls via Google Measurement Protocol
 - [garb](https://github.com/Sija/garb) - a Ruby wrapper for the Google Analytics API
 
-#### Python
+##### Python
 - [GA for Python and the Command Line] (https://github.com/debrouwere/google-analytics) - Takes the pain out of working with the Google Analytics reporting APIs. It supports both the Core and the Real Time API. It is written in Python but there's also a command-line interface.
 
-#### Javascript
+##### Javascript
 - [angular-google-analytics] (https://github.com/revolunet/angular-google-analytics) - Google Analytics tracking for your AngularJS apps
 - [ember-insights] (https://github.com/roundscope/ember-insights) - Ember middleware for tracking users activities and make it managable over Google Analytics
 - [flare] (https://github.com/toddmotto/flare)  - Unobtrusive event emitter API for Google Universal Analytics event tracking
-- 
-#### Other
+
+##### Other
 - [C# GoogleAnalyticsTracker] (https://github.com/maartenba/GoogleAnalyticsTracker) - A C# library for tracking Google Analytics.
 - [R Google Analytics] (https://github.com/skardhamar/rga) - Package for extracting data from Google Analytics into R.
 
