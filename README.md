@@ -30,3 +30,4 @@ This list is ideal for digital marketing professionals, usability researchers, o
 - [flare] (https://github.com/toddmotto/flare)  - Unobtrusive event emitter API for Google Universal Analytics event tracking
 - [angular-google-analytics] (https://github.com/revolunet/angular-google-analytics) - Google Analytics tracking for your AngularJS apps
 - [ember-insights] (https://github.com/roundscope/ember-insights) - Ember middleware for tracking users activities and make it managable over Google Analytics
+- [Angular Google Analytics] (https://github.com/revolunet/angular-google-analytics) - A simple service that lets you integrate google analytics tracker in your AngularJS applications.
