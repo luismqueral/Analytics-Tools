@@ -11,6 +11,9 @@ This list is ideal for digital marketing professionals, usability researchers, o
 - [Parsnip] (http://screentime.parsnip.io/) - Measure how much time things spend on-screen
 - [gatrack.js](https://github.com/jbckmn/gatrack.js) - Track user events with Google Analytics. Includes scrolling, touches, links, clicks, hovering, and error events.
 - [Enhanced ECommerce DOM Scraper] (https://github.com/sahava/eec-gtm) - DOM scraping scripts for tracking content with Enhanced Ecommerce with Google Tag Manager.
+- [form-tracker] (https://github.com/lunametrics/form-tracker) - Tracks form abandonment in Google Analytics with event tracking.
+- [luna metrics / xdomain] (https://github.com/lunametrics/xdomain) - Automatically tracks a visitor across domains in Google Analytics, automatically tracks their downloads, and clicks on outbound links (
+[for more info] (http://www.lunametrics.com/blog/2011/12/01/automatic-cross-domain-tracking-revisited/))
 
 ---
 
