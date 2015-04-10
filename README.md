@@ -36,12 +36,9 @@ This list is ideal for digital marketing professionals, usability researchers, o
 
 ##### Javascript
 - [angular-google-analytics] (https://github.com/revolunet/angular-google-analytics) - Google Analytics tracking for your AngularJS apps
-- [ember-insights] (https://github.com/roundscope/ember-insights) - Ember middleware for tracking users activities and make it managable over Google Analytics
+- [ember-insights] (https://github.com/ember-insights/ember-insights) - The Ember.js addon for measurement of user-centered metrics
 - [flare] (https://github.com/toddmotto/flare)  - Unobtrusive event emitter API for Google Universal Analytics event tracking
 
 ##### Other
 - [C# GoogleAnalyticsTracker] (https://github.com/maartenba/GoogleAnalyticsTracker) - A C# library for tracking Google Analytics.
 - [R Google Analytics] (https://github.com/skardhamar/rga) - Package for extracting data from Google Analytics into R.
-
-
-
