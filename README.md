@@ -15,6 +15,8 @@ This list is ideal for digital marketing professionals, usability researchers, o
 - [form-tracker] (https://github.com/lunametrics/form-tracker) - Tracks form abandonment in Google Analytics with event tracking.
 - [luna metrics / xdomain] (https://github.com/lunametrics/xdomain) - Automatically tracks a visitor across domains in Google Analytics, automatically tracks their downloads, and clicks on outbound links (
 [for more info] (http://www.lunametrics.com/blog/2011/12/01/automatic-cross-domain-tracking-revisited/))
+- [vimeo.ga.js] (https://github.com/sanderheilbron/vimeo.ga.js) -  Google Analytics plugin for measuring Vimeo Player Events.
+- 
 
 ---
 
@@ -30,6 +32,7 @@ This list is ideal for digital marketing professionals, usability researchers, o
 ##### Ruby
 - [Gabba-GMP](https://github.com/fuzzyjulz/gabba-gmp) - A Ruby framework for pushing server side Google Analytics calls via Google Measurement Protocol
 - [garb](https://github.com/Sija/garb) - a Ruby wrapper for the Google Analytics API
+- [Legato](https://github.com/tpitale/legato)- Google Analytics Reporting API Client for Ruby
 
 ##### Python
 - [GA for Python and the Command Line] (https://github.com/debrouwere/google-analytics) - Takes the pain out of working with the Google Analytics reporting APIs. It supports both the Core and the Real Time API. It is written in Python but there's also a command-line interface.
