@@ -16,6 +16,7 @@ This list is ideal for digital marketing professionals, usability researchers, o
 - [luna metrics / xdomain] (https://github.com/lunametrics/xdomain) - Automatically tracks a visitor across domains in Google Analytics, automatically tracks their downloads, and clicks on outbound links (
 [for more info] (http://www.lunametrics.com/blog/2011/12/01/automatic-cross-domain-tracking-revisited/))
 - [vimeo.ga.js] (https://github.com/sanderheilbron/vimeo.ga.js) -  Google Analytics plugin for measuring Vimeo Player Events.
+- [jquery-track-everything](https://github.com/nquinlan/jquery-track-everything) - jQuery plugin to help track Google Analytics Events.
 
 ---
 
